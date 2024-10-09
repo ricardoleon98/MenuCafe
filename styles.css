@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 30px;
+    
+}
+
+.articulo-menu{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    margin-left: 35px;
+    margin-top: 12px;
+    cursor: pointer;
+    
+}
+
+.precio{
+    text-align: right;
+    margin-right: 20px;
+    
+}
+
+body{
+    background-image: url(./assets/view-coffee-grains.jpg);
+}
+
+#especificaciones{
+    font-size: 20px;
+}
+
+.menu{
+    background-color: rgb(225, 225, 205);
+    width: 50%;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 2%; 
+}
+
+.articulo-menu:hover{
+    color: rgb(131, 159, 61);
+}
+
